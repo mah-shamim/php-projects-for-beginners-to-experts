@@ -6,7 +6,7 @@ Here are some PHP project ideas suitable for various skill levels, from beginner
 
 ### Beginner Projects
 1. [**Simple Calculator**](https://github.com/mah-shamim/simple-calculator.git): Create a basic calculator that can perform addition, subtraction, multiplication, and division.
-2. **To-Do List**: A simple to-do list application where users can add, edit, and delete tasks.
+2. [**To-Do List**](https://github.com/mah-shamim/simple-todo-list-php.git): A simple to-do list application where users can add, edit, and delete tasks.
 3. **Guestbook**: A guestbook application where visitors can leave messages.
 4. **Contact Form**: A contact form that sends an email to the site owner.
 5. **Weather App**: A weather application that fetches and displays weather information from an API.
