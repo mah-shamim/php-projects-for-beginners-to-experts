@@ -10,7 +10,7 @@ Here are some PHP project ideas suitable for various skill levels, from beginner
 3. [**Guestbook**](https://github.com/mah-shamim/simple-guestbook-application.git): A guestbook application where visitors can leave messages.
 4. [**Contact Form**](https://github.com/mah-shamim/simple-contact-form.git): A contact form that sends an email to the site owner.
 5. [**Weather App**:](https://github.com/mah-shamim/simple-weather-app.git) A weather application that fetches and displays weather information from an API.
-6. **Basic Blog**: A simple blogging platform where users can post articles.
+6. [**Basic Blog**:](https://github.com/mah-shamim/simple-blog-platform.git) A simple blogging platform where users can post articles.
 7. **Image Gallery**: An image gallery with upload functionality.
 8. **Currency Converter**: A tool to convert currencies using an external API.
 9. **Quiz Application**: A multiple-choice quiz application.
