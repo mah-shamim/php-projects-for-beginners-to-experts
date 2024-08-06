@@ -14,7 +14,7 @@ Here are some PHP project ideas suitable for various skill levels, from beginner
 7. [**Image Gallery**:](https://github.com/mah-shamim/simple-image-gallery.git) An image gallery with upload functionality.
 8. [**Currency Converter**:](https://github.com/mah-shamim/simple-currency-converter.git) A tool to convert currencies using an external API.
 9. [**Quiz Application**:](https://github.com/mah-shamim/php-mysql-quiz-app.git) A multiple-choice quiz application.
-10. **User Authentication**: A basic user registration and login system.
+10. [**User Authentication**:](https://github.com/mah-shamim/simple-user-authentication-system.git) A basic user registration and login system.
 
 ### Intermediate Projects
 1. **E-commerce Website**: A small e-commerce site with product listings, a shopping cart, and checkout.
